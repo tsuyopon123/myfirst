@@ -7,10 +7,11 @@
 
 ## 使ったことがあるプログラミング言語
 * Bash
+* C++
 * C#
 * Go
 * JavaScript
 * TypeScript
-* Python
+* Python3
 * PHP
 * Java
