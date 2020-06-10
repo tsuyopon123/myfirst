@@ -4,3 +4,13 @@
 * ラーメン
 * ピザ🍕
 * みかん
+
+## 使ったことがあるプログラミング言語
+* Bash
+* C#
+* Go
+* JavaScript
+* TypeScript
+* Python
+* PHP
+* Java
